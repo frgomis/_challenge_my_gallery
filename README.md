@@ -34,8 +34,6 @@
 
 ![screenshot](assets/design/challenge_My_Challenge.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
 hello Dears,
 
 I try to improve my skills in order to be a professionnal front-end developper. 
