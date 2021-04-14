@@ -48,5 +48,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{https://francoiseg.alwaysdata.net/})
-- GitHub [@your-username](https://{github.com/frgomis})
+- Website [https://francoiseg.alwaysdata.net/](https://{https://francoiseg.alwaysdata.net/})
+- GitHub [github.com/frgomis](https://{github.com/frgomis})
