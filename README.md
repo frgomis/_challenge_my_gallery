@@ -26,7 +26,7 @@
 
 ## Table of Contents
 
-  - [Built With](vsCode, grid, flexbox)
+  - [Built With](vsCode, html, css, grid, flexbox)
 
 <!-- OVERVIEW -->
 
