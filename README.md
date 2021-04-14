@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://frgomis.github.io/_challenge_my_gallery/}">
       Solution
     </a>
     <span> | </span>
